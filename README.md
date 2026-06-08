@@ -4,21 +4,6 @@ A production-ready Retrieval-Augmented Generation (RAG) chatbot built with **Ama
 
 Upload your documents → deploy → chat with them instantly.
 
-
-
-\## Demo
-
-
-
-!\[DocBot Chat UI](screenshots/botUI1.jpg)
-
-
-
-!\[Who Built DocBot](screenshots/botUI2.jpg)
-
-\---
-
-
 ## Demo
 
 ![DocBot Chat UI](screenshots/botUI1.jpg)
