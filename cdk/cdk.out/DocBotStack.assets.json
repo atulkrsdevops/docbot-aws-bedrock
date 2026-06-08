@@ -1,0 +1,48 @@
+{
+  "version": "54.0.0",
+  "files": {
+    "faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6": {
+      "displayName": "DocBotStack/Custom::S3AutoDeleteObjectsCustomResourceProvider Code",
+      "source": {
+        "path": "asset.faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "current_account-current_region-e31788a2": {
+          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
+          "objectKey": "faa95a81ae7d7373f3e1f242268f904eb748d8d0fdd306e8a6fe515a1905a7d6.zip",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
+        }
+      }
+    },
+    "f6352dca9d9f00aa28e3dec929d728df59f8eb5d1be8bdaca5cb8d25f3ba2978": {
+      "displayName": "ChatbotFunction/Code",
+      "source": {
+        "path": "asset.f6352dca9d9f00aa28e3dec929d728df59f8eb5d1be8bdaca5cb8d25f3ba2978",
+        "packaging": "zip"
+      },
+      "destinations": {
+        "current_account-current_region-885c6dff": {
+          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
+          "objectKey": "f6352dca9d9f00aa28e3dec929d728df59f8eb5d1be8bdaca5cb8d25f3ba2978.zip",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
+        }
+      }
+    },
+    "de05843c3078a1f33b20381c623bae422152110e1cda7bd4e852fb81dde6e844": {
+      "displayName": "DocBotStack Template",
+      "source": {
+        "path": "DocBotStack.template.json",
+        "packaging": "file"
+      },
+      "destinations": {
+        "current_account-current_region-94c78341": {
+          "bucketName": "cdk-hnb659fds-assets-${AWS::AccountId}-${AWS::Region}",
+          "objectKey": "de05843c3078a1f33b20381c623bae422152110e1cda7bd4e852fb81dde6e844.json",
+          "assumeRoleArn": "arn:${AWS::Partition}:iam::${AWS::AccountId}:role/cdk-hnb659fds-file-publishing-role-${AWS::AccountId}-${AWS::Region}"
+        }
+      }
+    }
+  },
+  "dockerImages": {}
+}

@@ -1,0 +1,513 @@
+{
+  "/DocBotStack": [
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/Custom::S3AutoDeleteObjectsCustomResourceProvider": [
+    {
+      "type": "aws:cdk:is-custom-resource-handler-customResourceProvider",
+      "data": true
+    }
+  ],
+  "/DocBotStack/AOSSDataAccessForKB": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "AOSSDataAccessForKB"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/KnowledgeBase": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "KnowledgeBase"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/KBDataSource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "KBDataSource"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/ApiEndpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ApiEndpoint"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/BucketName": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BucketName"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/KnowledgeBaseId": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "KnowledgeBaseId"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/BootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "BootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/DocBotStack/CheckBootstrapVersion": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CheckBootstrapVersion"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocsBucket/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocsBucketECEA003F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Bucket2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketAutoDeleteObjects"
+      }
+    }
+  ],
+  "/DocBotStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Role": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderRole3B1BD092"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/DocBotStack/Custom::S3AutoDeleteObjectsCustomResourceProvider/Handler": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CustomS3AutoDeleteObjectsCustomResourceProviderHandler9D90184F"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/DocBotStack/KnowledgeBaseRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "KnowledgeBaseRoleA2B317B9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Role2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/LambdaRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "LambdaRole3A44B857"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Role2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/ChatbotFunction/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "ChatbotFunction1D8F8DA6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Function2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApi3BECD017"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Account": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiAccountF798A7CD"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Endpoint": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiEndpoint1EBF98EC"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/CDKMetadata/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadata"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)"
+      ]
+    }
+  ],
+  "/DocBotStack/CDKMetadata/Condition": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "CDKMetadataAvailable"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...App.synth in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocsBucket/Policy/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocsBucketPolicy7BCF1FB7"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new Bucket2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)"
+      ]
+    },
+    {
+      "type": "aws:cdk:analytics:mixin",
+      "data": {
+        "mixin": "aws-cdk-lib.aws_s3.mixins.BucketPolicyStatements"
+      }
+    }
+  ],
+  "/DocBotStack/DocsBucket/AutoDeleteObjectsCustomResource/Default": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocsBucketAutoDeleteObjectsCustomResourceADA97380"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...aws-cdk-lib...",
+        "(no user code in 10 frames, use --stack-trace-limit to capture more)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/CloudWatchRole/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiCloudWatchRole34ED92F2"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Deployment/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiDeploymentEA3E2AB1396ae13345d90271e5ab2743fd743440"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/DeploymentStage.prod/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiDeploymentStageprod88A87348"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)",
+        "Kernel.create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:51955)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/OPTIONS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApiOPTIONS166046A6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...new RestApi2 in aws-cdk-lib...",
+        "Kernel._Kernel_create (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:61224)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/chat/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApichat0C7BDAD6"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...RootResource.addResource in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)",
+        "Kernel.invoke (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:54245)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)",
+        "...node internals..."
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/chat/OPTIONS/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApichatOPTIONS89BA49FF"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...RootResource.addResource in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/chat/POST/ApiPermission.DocBotStackDocBotApi035A18E3.POST..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApichatPOSTApiPermissionDocBotStackDocBotApi035A18E3POSTchat13877692"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.addMethod in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)",
+        "Kernel.invoke (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:54245)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/chat/POST/ApiPermission.Test.DocBotStackDocBotApi035A18E3.POST..chat": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApichatPOSTApiPermissionTestDocBotStackDocBotApi035A18E3POSTchat3459FAF9"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.addMethod in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)",
+        "Kernel.invoke (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:54245)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)"
+      ]
+    }
+  ],
+  "/DocBotStack/DocBotApi/Default/chat/POST/Resource": [
+    {
+      "type": "aws:cdk:logicalId",
+      "data": "DocBotApichatPOST66030485"
+    },
+    {
+      "type": "aws:cdk:creationStack",
+      "data": [
+        "...WrappedClass.addMethod in aws-cdk-lib...",
+        "C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:542 (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:5429)",
+        "Kernel._Kernel_ensureSync (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:69840)",
+        "Kernel.invoke (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:54245)",
+        "KernelHost.processRequest (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:212065)",
+        "KernelHost.run (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211120)",
+        "Immediate._onImmediate (C:\\Users\\hp\\AppData\\Local\\Temp\\tmp7x0cf6gb\\lib\\program.js:1:211164)"
+      ]
+    }
+  ]
+}
